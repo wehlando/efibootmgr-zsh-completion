@@ -1,0 +1,1 @@
+# efibootmgr-zsh-completion
